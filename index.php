@@ -38,7 +38,7 @@
         $baseB = $_POST['base-b']; // Input for Base-B
 				$area = ($baseA + $baseB) / 2 * $height; // Calculations for area
 				$area = number_format($area, 2); // Rounds to nearest hundredth 
-				echo "<br><br>The area of a Trapezoid with " . $height . "cm for a height, one base with " . $baseA . "cm" . " and the other base at " . $baseB . "cm has an area of " . $area . "cm<sup>2</sup> <br>"; // Outputs Area
+				echo "<br><br><h4>The area of a Trapezoid with " . $height . "cm for a height, one base with " . $baseA . "cm" . " and the other base at " . $baseB . "cm has an area of " . $area . "cm<sup>2</sup></h4> <br>"; // Outputs Area
 			}
 		?>
   </body>
