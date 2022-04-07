@@ -23,11 +23,11 @@
 		?>
 		<!-- Text field and button (Takes Input) -->
 		<form method = "post">
-			Height: <input type="number" name="height">   
+			Height: <input type="float" name="height">   
 			<br><br>   
-			Base-A: <input type="number" name="base-a">
+			Base-A: <input type="float" name="base-a">
 			<br><br>
-      Base-B: <input type="number" name="base-b"> <br>
+      Base-B: <input type="float" name="base-b"> <br>
 			<br><br>
 			<input type = "submit" name = "submit" value="Calculate Area">
 		<!-- Calculations for area (With User Input) -->
