@@ -1,0 +1,15 @@
+/* Color */
+
+body {
+	background-color: rgb(89, 232, 218);
+}
+
+h1 {
+	background-color: #f95d5d;
+  color: rgb(255, 223, 179);
+}
+
+p {
+	color: rgb(127, 23, 31);
+	font-weight: bold;
+}
